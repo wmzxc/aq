@@ -77,3 +77,4 @@ gem 'devise-i18n'
 
 gem 'rake'  
 gem 'webpacker', '~> 3.5'
+gem 'timeout', '~> 0.3.0'
